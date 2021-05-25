@@ -1,0 +1,16 @@
+{
+  "object": {
+    "pins": [
+      {
+        "package": "ImageMagick7Remote",
+        "repositoryURL": "https://github.com/dmedynskyi-skelia/ImageMagick7Remote.git",
+        "state": {
+          "branch": null,
+          "revision": "92bb3179890cbbf2a58854077839518220eba8c1",
+          "version": "1.0.0"
+        }
+      }
+    ]
+  },
+  "version": 1
+}
